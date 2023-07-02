@@ -31,3 +31,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raulg-cpp&show_icons=true&locale=en&layout=compact" alt="raulg-cpp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raulg-cpp&show_icons=true&locale=en" alt="raulg-cpp" /></p>
+
+<h3 align="left"> 🔖 ℂ𝕖𝕣𝕥𝕚𝕗𝕚𝕔𝕒𝕥𝕖𝕤 </h3>
+
+- [FreeCodeCamp.org - Frontend Development libraries](https://www.freecodecamp.org/certification/fcc5da5be2f-1f1b-47c0-b84e-9f6f9ab3452f/front-end-development-libraries)
