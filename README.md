@@ -1,5 +1,5 @@
 <h1 align="center">▁▂▃▅▆ 🅵🆁🅾🅽🆃🅴🅽🅳 ▆▅▃▂▁</h1>
-<p align="center">𝙹𝚞𝚗𝚒𝚘𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</p>
+<p align="center">𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</p>
 
 <p align="center"><img src="https://i.imgflip.com/20vt87.jpg" /></p>
 
