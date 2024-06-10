@@ -1,5 +1,4 @@
-<h1 align="center">▁▂▃▅▆ 🅵🆁🅾🅽🆃🅴🅽🅳 ▆▅▃▂▁</h1>
-<p align="center">𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</p>
+<h1 align="center">✩░▒▓▆▅▃▂▁𝐂𝐨𝐝𝐞 𝐦𝐨𝐧𝐤𝐞𝐲▁▂▃▅▆▓▒░✩</h1>
 
 <p align="center"><img src="https://i.imgflip.com/20vt87.jpg" /></p>
 
